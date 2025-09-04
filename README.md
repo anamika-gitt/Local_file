@@ -3,3 +3,5 @@
 New feature added.
 <br>
 example of merge conflict.
+conflict resolved
+
